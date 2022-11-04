@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating technologies to make life easier
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on any ambitious project
-- 📫 How to reach me @iamchapmanofficial@gmail.com
+- 📫 How to reach me openiyiibrahim@gmail.com
 
 <!---
 DonaldKnut/DonaldKnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
