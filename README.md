@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonaldKnut
 - 👀 I’m interested in creating technologies to make life easier
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA, SpringBoot and Spring MVC 
 - 💞️ I’m looking to collaborate on any ambitious project
 - 📫 How to reach me openiyiibrahim@gmail.com
 
