@@ -2,7 +2,7 @@ Hi, I’m @DonaldKnut
 
 Not the legendary Donald Knuth — but deeply inspired by his brilliance and contributions to computer science.
 
-I’m an Entrepreneur passionate about building ambitious, AI-driven technologies that make life easier and smarter.
+I’m a Fullstack developer & founder-minded builder exploring how AI can transform betting, trading, and gaming platforms. passionate about building ambitious, AI-driven technologies that make life easier and smarter.
 
 💻 Tech Stack:
 
