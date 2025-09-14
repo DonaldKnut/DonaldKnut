@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @DonaldKnut
-- 👀 I’m interested in creating technologies to make life easier
-- 🌱 I’m currently learning JAVA, SpringBoot and Spring MVC and NEXT JS for SSR
-- 💞️ I’m looking to collaborate on any ambitious project
-- 📫 How to reach me openiyiibrahim@gmail.com
+Hi, I’m @DonaldKnut 
 
-<!---
-DonaldKnut/DonaldKnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Not the legendary Donald Knuth — but deeply inspired by his brilliance and contributions to computer science.
+
+I’m an Entrepreneur passionate about building ambitious, AI-driven technologies that make life easier and smarter.
+
+💻 Tech Stack:
+
+Frontend & Mobile: React, React Native
+
+Backend: Node.js, NestJS, Spring Boot
+
+Languages: TypeScript, JavaScript, Solidity
+
+AI/ML: LangChain, model integrations
+
+🔎 Interests:
+
+AI-powered systems (from betting & trading platforms to real-world applications)
+
+Blockchain & smart contracts
+
+Scalable full-stack applications
+
+🤝 Open to collaborating on challenging, future-driven projects.
+
+📫 Reach me at openiyiibrahim@gmail.com
